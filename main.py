@@ -8,23 +8,23 @@ AI, crypto or the internet but cannot tell a PDF from a printer — to
 the same bytes on every run.
 
 Craft notes: the setup grants the lawmakers maximal authority — they
-passed a 400-page bill to regulate artificial intelligence — then the
-sentence undercuts that authority with one mundane detail: they asked
-their intern to explain the difference between a PDF and a printer.
-The punch lands on the last words, the contrast between legislating the
-future and fumbling the most basic office distinction. That fits the
-judge brief: one satirical sentence, at most 320 chars, with bite in
-the authority gap, aim at the lawmakers themselves rather than the
-intern, and freshness in the specific, recognisable detail instead of
-a generic "old people don't get tech" joke.
+banned the algorithm they could not even define — then the sentence
+undercuts that authority with one mundane detail: they asked their
+intern to print the internet so they could read it during the recess.
+The punch lands on the last words, the contrast between banning the
+future and wanting it on paper, like a newspaper. That fits the judge
+brief: one satirical sentence, at most 320 chars, with bite in the
+authority gap, aim at the lawmakers themselves rather than the intern,
+and freshness in the specific, recognisable detail instead of a generic
+"old people don't get tech" joke.
 """
 
 import os
 
 ROAST = (
-    "They passed a 400-page bill to regulate artificial intelligence, "
-    "then asked their intern to explain the difference between a PDF "
-    "and a printer."
+    "They banned the algorithm they could not define, then asked "
+    "their intern to print the internet so they could read it "
+    "during the recess."
 )
 
 
