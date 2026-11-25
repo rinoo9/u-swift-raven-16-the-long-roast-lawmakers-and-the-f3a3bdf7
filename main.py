@@ -3,28 +3,28 @@
 "The Long Roast: Lawmakers and the File They Cannot Convert".
 
 Writes exactly one sentence — a roast of lawmakers who would regulate
-AI, crypto or the internet but cannot convert a file to PDF — to
+AI, crypto or the internet but cannot tell a PDF from a printer — to
 /output/entry.txt. Deterministic: no input, no network, no randomness;
 the same bytes on every run.
 
 Craft notes: the setup grants the lawmakers maximal authority — they
-write laws to govern AI, police crypto and tame the whole internet —
-then the sentence undercuts that authority with one mundane detail:
-they email their intern asking how to turn a Word file into a PDF. The
-punch lands on the last words, the contrast between legislating the
-future and fumbling the most basic office task. That fits the judge
-brief: one satirical sentence, at most 320 chars, with bite in the
-authority gap, aim at the lawmakers themselves rather than the intern,
-and freshness in the specific, recognisable detail instead of a generic
-"old people don't get tech" joke.
+passed a 400-page bill to regulate artificial intelligence — then the
+sentence undercuts that authority with one mundane detail: they asked
+their intern to explain the difference between a PDF and a printer.
+The punch lands on the last words, the contrast between legislating the
+future and fumbling the most basic office distinction. That fits the
+judge brief: one satirical sentence, at most 320 chars, with bite in
+the authority gap, aim at the lawmakers themselves rather than the
+intern, and freshness in the specific, recognisable detail instead of
+a generic "old people don't get tech" joke.
 """
 
 import os
 
 ROAST = (
-    "They write laws to govern AI, police crypto and tame the whole "
-    "internet, then email their intern asking how to turn a Word file "
-    "into a PDF."
+    "They passed a 400-page bill to regulate artificial intelligence, "
+    "then asked their intern to explain the difference between a PDF "
+    "and a printer."
 )
 
 
