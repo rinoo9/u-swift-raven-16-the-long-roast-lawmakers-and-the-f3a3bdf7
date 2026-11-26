@@ -4,10 +4,10 @@
 
 # The Long Roast: Lawmakers and the File They Cannot Convert
 
-A one-sentence satirical roast entry for the make.fun bounty "The Long Roast: Lawmakers and the File They Cannot Convert". The program `main.py` writes a single sentence to `/output/entry.txt` — lawmakers who banned the algorithm they could not define, then asked their intern to print the internet so they could read it during the recess.
+A one-sentence satirical roast entry for the make.fun bounty "The Long Roast: Lawmakers and the File They Cannot Convert". The program `main.py` writes a single sentence to `/output/entry.txt` — lawmakers who wrote the law deciding what the entire internet is allowed to say, then saved the final draft as a screenshot of a Word document because no one in the building knew how to make a PDF.
 
-> They banned the algorithm they could not define, then asked their intern to print the internet so they could read it during the recess.
+> They wrote the law that decides what the entire internet is allowed to say, then saved the final draft as a screenshot of a Word document because no one in the building knew how to make a PDF.
 
 Run it with `python3 main.py`. It asserts the entry is 1–320 characters, exactly one sentence (one terminal period, no other sentence-ending punctuation), a single line with no leading or trailing whitespace, then writes it with no trailing newline.
 
-Character count: 135.
+Character count: 192.
